@@ -5,3 +5,5 @@
 to system execute you should add
 
 ```npm install react```
+
+Register System 2
